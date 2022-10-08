@@ -40,7 +40,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [GitHub](https://github.com/salahudheen007/interactive-rating-component-main)
-- Live Site URL: [Live Site](https://634135010602f6035aa37036--rainbow-banoffee-5f2ac4.netlify.app/#)
+- Live Site URL: [Live Site](https://634137bc8975e308185f39cd--sweet-torrone-c45dc2.netlify.app/)
 
 ## My process
 
